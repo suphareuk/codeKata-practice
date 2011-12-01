@@ -1,0 +1,4 @@
+﻿name: fizzbuzz-test-js
+version: 0.001
+test_requires:
+    - cpan-libstartsiden-test-javascript-perl

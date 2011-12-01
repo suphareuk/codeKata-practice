@@ -1,0 +1,1 @@
+﻿load('js/fizzBuzz3.2.js');
